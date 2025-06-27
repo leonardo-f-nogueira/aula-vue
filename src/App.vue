@@ -9,7 +9,7 @@
     <CartaoUsuarioVue
       :nome="Leonardo"
       :idade="27"
-      :email='leonardo@email.com'/>
+      :email='leonardo.email.com'/>
   </div>
 </template>
 
