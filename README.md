@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # cli-vue
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -27,3 +28,7 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+# aula-vue
+Código da aula de Caio do dia 26/06/2025
+>>>>>>> dc8221695f69a3a837e7ed983fb1ee34ecfb2471
